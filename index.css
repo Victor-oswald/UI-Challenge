@@ -21,7 +21,7 @@ body>div{
     width:100%;
 }
 .title{
-margin-left: 100px;
+margin-left: none;
 font-weight: bolder;
 font-size: x-large;
 color: #fff;
@@ -73,11 +73,6 @@ color: #fff;
     top:80%;
 }
 .afterNav--2{
-    /*background-image: url("/images/man-wearing-smart-glasses-touching-virtual-screen\ 1.png");
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 40%;
-    padding-top: 200px;*/
     padding-top: 20px;
     padding-left: 70px;
     border-bottom: 0.001px solid rgb(58, 50, 50);
