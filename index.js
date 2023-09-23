@@ -86,7 +86,7 @@ document.getElementById("submit").addEventListener("click",function(){
 
    const regBTN= document.getElementsByClassName("register");
    for(var i=0; i<regBTN.length; i++){
-    regBTN[i].addEventListener("click", function(){
+    regBTN[i].onclick= function(){
         window.location.href="register.html";
-    });
+    };
    }
