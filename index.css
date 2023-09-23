@@ -629,7 +629,7 @@ small{
     #star02{
         width:2%;
         position:absolute;
-        top:10%;
+        top:15%;
         left:8%;
     }
 body{
@@ -711,26 +711,25 @@ float:left;
   
 }
 .afterNav--2--img1{
-    width: 45%;
     height: auto;
-    float: right;
     z-index: 1;
-    position: inherit;
-    margin-right: 3%;
+    position: absolute;
+    left:8%;
+    
     
     
 }
 .afterNav--2--img2{
-    width: 50%;
     height: auto;
-    position: relative;
-    right:0;
+    position: absolute;
+    left:10%;
     z-index: -1;
 }
 .afterNav--2--img3{
     height: auto;
     z-index: -2;
-    top:13%;
+    top:17%;
+    left:3%;
     position: absolute;
 }
 .afterNav--2--img5{
