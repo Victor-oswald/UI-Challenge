@@ -660,5 +660,17 @@ small{
     padding-right: none;
     line-height:none;
 }
+    .title{
+margin-left: 3%;
+font-weight: bolder;
+font-size: x-large;
+color: #fff;
+
+
+}
+.title>span{
+    color: #D434FE;
+    font-size: x-large;
+}
     
 }
