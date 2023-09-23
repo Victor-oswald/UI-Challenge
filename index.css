@@ -633,6 +633,25 @@ small{
         display: block;
         position:absolute;
         right: 5%;
-        width:5%;
+        width:10%;
+        margin-top:5%;
     }
+    .afterNav--1-img-1{
+    float:right;
+    width:80%;
+    margin-right:10%;
+}
+#vector1{
+    width:30%;
+    float:right;
+    margin-right:10%
+}
+    .afterNav--2--img3{
+    width:75%%;
+    height: auto;
+    z-index: -2;
+    position: absolute;
+    margin-left:12.5%;
+}
+    
 }
