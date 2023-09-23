@@ -638,8 +638,9 @@ small{
     }
     .afterNav--1-img-1{
     float:right;
-    width:80%;
-    margin-right:10%;
+    width:96%;
+    margin-right:2%;
+    height:auto;
 }
 #vector1{
     width:30%;
@@ -647,7 +648,7 @@ small{
     margin-right:10%
 }
     .afterNav--2--img3{
-    width:75%%;
+    width:90%;
     height: auto;
     z-index: -2;
     position: absolute;
