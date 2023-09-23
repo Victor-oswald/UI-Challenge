@@ -2,13 +2,11 @@
     body{
         margin-left:none;
         overflow-x:hidden;
-        overflow-y:hidden;
     }
     .myNav{
         display: flex;
         flex-direction: row;
         border-bottom: 0.001px solid rgb(58, 50, 50);
-        overflow-y: hidden;
     } 
     #Timeline, #Overview, #FAQs, #Contact, #Register{
         display: none;
