@@ -621,6 +621,7 @@ small{
 @media(max-width:650px){
     body{
         margin-left:none;
+        overflow-x:hidden;
     }
     .myNav{
         display: flex;
