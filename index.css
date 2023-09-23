@@ -654,5 +654,11 @@ small{
     position: absolute;
     margin-left:12.5%;
 }
+    .afterNav--1{
+    margin-top: 25px;
+    margin-left: none;
+    padding-right: none;
+    line-height:none;
+}
     
 }
