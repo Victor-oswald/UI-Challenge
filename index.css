@@ -624,7 +624,6 @@ small{
     color:whitesmoke;
     font-family:Arial, Helvetica, sans-serif;
     font-size: small;
-     width:100%;
 }
     #star02{
         width:2%;
@@ -656,8 +655,7 @@ margin-left: none;
 font-weight: bolder;
 font-size: x-large;
 color: #fff;
-left:8%;
-position:absolute;
+float:left;
 
 
 }
