@@ -615,6 +615,9 @@ small{
     font-size: x-small;
     margin-bottom: 2%;
 }
+#menu{
+    display: none;
+}
 @media(max-width:650px){
     .myNav{
         display: flex;
@@ -625,5 +628,10 @@ small{
     } 
     #Timeline, #Overview, #FAQs, #Contact, #Register{
         display: none;
+    }
+    #menu{
+        display: block;
+        float: right;
+        margin-right: 5%;
     }
 }
