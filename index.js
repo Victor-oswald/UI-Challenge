@@ -85,14 +85,14 @@ document.getElementById("submit").addEventListener("click",function(){
     });
 
 
-contact=()=>{
+function contact(){
 window.location.href="contact us.html";
 }
 
-register=()=>{
+function register(){
 window.location.href="register.html";
 }
 
-registerBTN=()=>{
+function registerBTN(){
 window.location.href="register.html";
 }
