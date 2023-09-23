@@ -700,17 +700,18 @@ float:left;
     float:none;
     width:130%;
     height:100%;
-    margin-right:3%
+    margin-right:10%
 }
 #vector1{
     width:50%;
-    margin-right:35%;
+    margin-right:5%;
     float:right
 }
 .afterNav--2--img6{
-    position: relative;
+    position: absolute;
     left: 40%;
-    top:80%;
+    top:50%;
+    width:70%
 }
 .afterNav--2{
     padding-top: 20px;
@@ -723,6 +724,7 @@ float:left;
     z-index: 1;
     position: absolute;
     left:15%;
+    top:60%;
     
     
     
@@ -730,14 +732,15 @@ float:left;
 .afterNav--2--img2{
     height: auto;
     position: absolute;
-    left:10%;
+    left:15%;
     z-index: -1;
-    top:40%;
+    top:30%;
+    
 }
 .afterNav--2--img3{
     height: auto;
     z-index: -2;
-    top:40%;
+    top:60%;
     left:10%;
     position: absolute;
 }
