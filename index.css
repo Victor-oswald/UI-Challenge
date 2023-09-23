@@ -651,15 +651,13 @@ display: none:
     border-bottom: 0.001px solid rgb(58, 50, 50);
     width:100%;
 }
-.title{
-margin-left: none;
-font-weight: bolder;
-font-size: x-large;
-color: #fff;
-
-
-
+.title {
+    margin-left: 0;
+    font-weight: bolder;
+    font-size: x-large;
+    color: #fff;
 }
+
     #menu{
     display: block;
     width:10%;
