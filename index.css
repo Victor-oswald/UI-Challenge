@@ -626,6 +626,12 @@ small{
     font-size: small;
      width:100%;
 }
+    #star02{
+        width:2%;
+        position:absolute;
+        top:10%;
+        left:8%;
+    }
 body{
     background-color: #150E28;
     width: 100%;
@@ -722,10 +728,10 @@ float:left;
     z-index: -1;
 }
 .afterNav--2--img3{
-    width:52%;
     height: auto;
     z-index: -2;
-    position: relative;
+    top:13%;
+    position: absolute;
 }
 .afterNav--2--img5{
     position: relative;
