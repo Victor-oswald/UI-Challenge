@@ -727,7 +727,7 @@ display: none:
     z-index: 1;
     position: absolute;
     left:15%;
-    top:75%;
+    top:85%;
     
     
 }
@@ -737,7 +737,7 @@ display: none:
     position: absolute;
     left:15%;
     z-index: -1;
-   top:75%;
+   top:85%;
     
 }
 .afterNav--2--img3{
@@ -746,7 +746,7 @@ display: none:
     top:10%;
     left:10%;
     position: absolute;
-    width 550px
+    width 700px
 }
 .afterNav--2--img5{
     position: absolute;
@@ -776,7 +776,7 @@ display: none:
 .afterNav--2--para1{
     color: #fff;
     z-index: 1;
-   margin-top: 50%;
+   margin-top: 65%;
    font-size: small;
    position: relative;
 }
