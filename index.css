@@ -1,4 +1,4 @@
-@media(max-width:650px){
+@media(max-width:750px){
 
  *{
     color:whitesmoke;
@@ -8,7 +8,7 @@
 body{
     background-color: #150E28;
     width: 100%;
-    overflow-x: hidden;
+    overflow-x: auto;
 }
 body>div{
     max-width: 100%;
