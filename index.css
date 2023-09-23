@@ -766,7 +766,7 @@ float:left;
     border: none;
     border-radius: 3px;
     z-index: -1;
-    margin-top:15%;
+    margin-top:10%;
     margin-left:60px ;
     color: #fff;
     font-size: xx-small;
@@ -774,7 +774,7 @@ float:left;
 .afterNav--2--para1{
     color: #fff;
     z-index: 1;
-   margin-top: 20%;
+   margin-top: 25%;
    font-size: small;
    position: relative;
 }
