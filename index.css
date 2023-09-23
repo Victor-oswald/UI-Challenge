@@ -631,7 +631,8 @@ small{
     }
     #menu{
         display: block;
-        float: right;
-        margin-right: 5%;
+        position:absolute;
+        right: 5%;
+        width:30%;
     }
 }
