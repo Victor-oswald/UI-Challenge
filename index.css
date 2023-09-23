@@ -698,8 +698,8 @@ float:left;
 }
 .afterNav--1-img-1{
     float:none;
-    width:130%;
-    height:130%;
+    width:400px;
+    height:30px%;
     margin-right:20%
 }
 #vector1{
@@ -721,6 +721,7 @@ float:left;
   
 }
 .afterNav--2--img1{
+    width:100%;
     height: auto;
     z-index: 1;
     position: absolute;
@@ -731,6 +732,7 @@ float:left;
     
 }
 .afterNav--2--img2{
+    width:100%;
     height: auto;
     position: absolute;
     left:15%;
