@@ -643,9 +643,10 @@ body{
 body>div{
     max-width: 100%;
     overflow-y: auto;
+display: none:
 }
 .myNav{
-    display: flex;
+    display:block;
     flex-direction: row;
     border-bottom: 0.001px solid rgb(58, 50, 50);
     width:100%;
@@ -722,6 +723,7 @@ left:3%;
     padding-left: 70px;
     border-bottom: 0.001px solid rgb(58, 50, 50);
     position:relative;
+display: none;
   
 }
 .afterNav--2--img1{
@@ -730,7 +732,7 @@ left:3%;
     z-index: 1;
     position: absolute;
     left:15%;
-    top:65%;
+    top:75%;
     
     
 }
@@ -740,7 +742,7 @@ left:3%;
     position: absolute;
     left:15%;
     z-index: -1;
-   top:65%;
+   top:75%;
     
 }
 .afterNav--2--img3{
@@ -779,7 +781,7 @@ left:3%;
 .afterNav--2--para1{
     color: #fff;
     z-index: 1;
-   margin-top: 40%;
+   margin-top: 50%;
    font-size: small;
    position: relative;
 }
