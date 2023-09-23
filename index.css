@@ -632,7 +632,7 @@ small{
         left:8%;
     }
     .container{
-        width:90%;
+        width:100%;
         overflow-x:hidden;
     }
 body{
@@ -741,7 +741,7 @@ float:left;
 .afterNav--2--img3{
     height: auto;
     z-index: -2;
-    top:25%;
+    top:20%;
     left:10%;
     position: absolute;
 }
@@ -778,7 +778,7 @@ float:left;
    position: relative;
 }
 .afterNav--2--img4{
-    margin-bottom: 9.6%;
+    margin-bottom: 15%;
 }
 .afterNav--3--span1{
    max-width: 40%;
