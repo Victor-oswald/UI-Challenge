@@ -632,6 +632,9 @@ small{
         top:15%;
         left:8%;
     }
+    .container{
+        width:90%;
+    }
 body{
     background-color: #150E28;
     width: 100%;
