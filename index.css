@@ -25,23 +25,25 @@ margin-left: none;
 font-weight: bolder;
 font-size: x-large;
 color: #fff;
+float:left;
 
 
 }
     #menu{
     display: block;
+    width:10%;
 }
 .title>span{
     color: #D434FE;
     font-size: x-large;
 }
 #Timeline, #Overview, #FAQs, #Contact, #Register{
-    margin-right: 5%;
+    margin-right: none;
     color:#fff;
     display:none;
 }
 #Timeline{
-    margin-left: 30%;
+    margin-left: none;
 }
 #Register{
     padding-left: 20px;
@@ -60,11 +62,14 @@ color: #fff;
 .afterNav--1{
     margin-top: 25px;
     margin-left: 100px;
-    padding-right: 50px;
+    padding-right: none;
     line-height: 0.1;
 }
 .afterNav--1-img-1{
     float:right;
+    width:100%;
+}
+#vector1{
     width:50%;
 }
 .afterNav--2--img6{
