@@ -637,7 +637,6 @@ small{
         margin-top:5%;
     }
     .afterNav--1-img-1{
-    float:right;
     width:96%;
     margin-right:2%;
     height:auto;
@@ -651,7 +650,6 @@ small{
     width:90%;
     height: auto;
     z-index: -2;
-    position: absolute;
     margin-left:12.5%;
 }
     .afterNav--1{
@@ -681,9 +679,7 @@ color: #fff;
 .afterNav--2--img1{
     width: 45%;
     height: auto;
-    float: auto;
     z-index: 1;
-    position: inherit;
     margin-right: 3%;
     
     
@@ -691,18 +687,14 @@ color: #fff;
 .afterNav--2--img2{
     width: 50%;
     height: auto;
-    position: absolute;
-    right:auto;
     z-index: -1;
 }
 .afterNav--2--img3{
     width:52%;
     height: auto;
     z-index: -2;
-    position: absolute;
 }
 .afterNav--2--img5{
-    position: absolute;
     width: 2%;
     right: auto;
     z-index: 4;
@@ -731,7 +723,6 @@ color: #fff;
     z-index: 1;
    margin-top: 17.5%;
    font-size: small;
-   position: absolute;
 }
 .afterNav--2--img4{
     margin-top: 10%;
