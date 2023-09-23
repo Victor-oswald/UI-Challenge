@@ -656,8 +656,6 @@ margin-left: none;
 font-weight: bolder;
 font-size: x-large;
 color: #fff;
-position: absolute;
-left:3%;
 
 
 
@@ -723,7 +721,6 @@ left:3%;
     padding-left: 70px;
     border-bottom: 0.001px solid rgb(58, 50, 50);
     position:relative;
-display:grid;
   
 }
 .afterNav--2--img1{
