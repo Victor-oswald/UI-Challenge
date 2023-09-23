@@ -5,10 +5,9 @@
         width:100%;
     }
     .myNav{
-        display: flex;
-        flex-direction: row;
+        display: block;
         border-bottom: 0.001px solid rgb(58, 50, 50);
-        width:50%;
+        width:auto;
     } 
     #Timeline, #Overview, #FAQs, #Contact, #Register{
         display: none;
