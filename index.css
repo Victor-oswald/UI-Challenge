@@ -2,11 +2,13 @@
     body{
         margin-left:none;
         overflow-x:hidden;
+        width:100%;
     }
     .myNav{
         display: flex;
         flex-direction: row;
         border-bottom: 0.001px solid rgb(58, 50, 50);
+        width:50;
     } 
     #Timeline, #Overview, #FAQs, #Contact, #Register{
         display: none;
@@ -35,7 +37,6 @@
     line-height:none;
 }
     .title{
-margin-left: 3%;
 font-weight: bolder;
 font-size: x-large;
 color: #fff;
