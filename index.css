@@ -712,7 +712,7 @@ display: none:
     position: absolute;
     left: 40%;
     top:50%;
-    width:70%
+    width:1.5%
 }
 .afterNav--2{
     padding-top: 20px;
@@ -728,6 +728,7 @@ display: none:
     position: absolute;
     left:15%;
     top:85%;
+    margin-left: 0;
     
     
 }
@@ -738,6 +739,7 @@ display: none:
     left:15%;
     z-index: -1;
    top:85%;
+    margin-left: 0;
     
 }
 .afterNav--2--img3{
