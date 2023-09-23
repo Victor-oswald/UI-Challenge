@@ -1,14 +1,14 @@
-
 @media(max-width:650px){
     body{
         margin-left:none;
         overflow-x:hidden;
+        overflow-y:hidden;
     }
     .myNav{
         display: flex;
         flex-direction: row;
         border-bottom: 0.001px solid rgb(58, 50, 50);
-        overflow-x: hidden;
+        overflow-y: hidden;
     } 
     #Timeline, #Overview, #FAQs, #Contact, #Register{
         display: none;
@@ -20,19 +20,15 @@
     }
     .afterNav--1-img-1{
     width:96%;
-    margin-right:2%;
     height:auto;
 }
 #vector1{
     width:30%;
-    float:right;
-    margin-right:10%;
 }
     .afterNav--2--img3{
     width:90%;
     height: auto;
     z-index: -2;
-    margin-left:12.5%;
 }
     .afterNav--1{
     margin-top: 25px;
