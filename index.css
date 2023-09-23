@@ -18,6 +18,7 @@ body>div{
     display: flex;
     flex-direction: row;
     border-bottom: 0.001px solid rgb(58, 50, 50);
+    width:100%;
 }
 .title{
 margin-left: 100px;
