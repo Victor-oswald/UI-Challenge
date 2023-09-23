@@ -1,1 +1,1 @@
-# UI-Challenge
+project is not optimized for mobile browsers due to time limitations
