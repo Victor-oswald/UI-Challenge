@@ -84,9 +84,15 @@ document.getElementById("submit").addEventListener("click",function(){
     
     });
 
-   const regBTN= document.getElementsByClassName("register");
-   for(var i=0; i<regBTN.length; i++){
-    regBTN[i].addEventListener("click",function(){
-        window.location.href="register.html";
-    });
-   }
+
+contact=()=>{
+window.location.href="contact us.html";
+}
+
+register=()=>{
+window.location.href="register.html";
+}
+
+registerBTN=()=>{
+window.location.href="register.html";
+}
