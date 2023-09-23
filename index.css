@@ -678,5 +678,21 @@ color: #fff;
     border-bottom: 0.001px solid rgb(58, 50, 50);
   
 }
+    .afterNav--2--img1{
+    width: 75%;
+    height: auto;
+    z-index: 1;
+    position: inherit;
+    margin-right: 3%;
+    
+    
+}
+.afterNav--2--img2{
+    width: 80%;
+    height: auto;
+    position: absolute;
+    right:0;
+    z-index: -1;
+}
     
 }
