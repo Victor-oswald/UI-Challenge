@@ -741,9 +741,10 @@ float:left;
 .afterNav--2--img3{
     height: auto;
     z-index: -2;
-    top:8%;
+    top:10%;
     left:10%;
     position: absolute;
+    width 70%
 }
 .afterNav--2--img5{
     position: absolute;
@@ -765,7 +766,7 @@ float:left;
     border: none;
     border-radius: 3px;
     z-index: -1;
-    margin-top: 15%;
+    margin-top: 20%;
     margin-left:60px ;
     color: #fff;
     font-size: xx-small;
@@ -773,7 +774,7 @@ float:left;
 .afterNav--2--para1{
     color: #fff;
     z-index: 1;
-   margin-top: 13%;
+   margin-top: 18%;
    font-size: small;
    position: relative;
 }
