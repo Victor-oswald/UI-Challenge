@@ -726,7 +726,7 @@ float:left;
     z-index: 1;
     position: absolute;
     left:15%;
-    top:55%;
+    top:65%;
     
     
 }
@@ -736,16 +736,16 @@ float:left;
     position: absolute;
     left:15%;
     z-index: -1;
-   top:55%;
+   top:65%;
     
 }
 .afterNav--2--img3{
-    height: auto;
+    height: 60px;
     z-index: -2;
     top:10%;
     left:10%;
     position: absolute;
-    width 100%
+    width 400px
 }
 .afterNav--2--img5{
     position: absolute;
@@ -775,7 +775,7 @@ float:left;
 .afterNav--2--para1{
     color: #fff;
     z-index: 1;
-   margin-top: 33%;
+   margin-top: 35%;
    font-size: small;
    position: relative;
 }
