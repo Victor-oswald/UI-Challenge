@@ -634,6 +634,7 @@ small{
     }
     .container{
         width:90%;
+        overflow-x:hidden;
     }
 body{
     background-color: #150E28;
@@ -731,12 +732,12 @@ float:left;
 .afterNav--2--img3{
     height: auto;
     z-index: -2;
-    top:17%;
-    left:3%;
+    top:25%;
+    left:10%;
     position: absolute;
 }
 .afterNav--2--img5{
-    position: relative;
+    position: absolute;
     width: 2%;
     right: 40%;
     z-index: 4;
