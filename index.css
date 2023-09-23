@@ -672,5 +672,11 @@ color: #fff;
     color: #D434FE;
     font-size: x-large;
 }
+    .afterNav--2{
+    padding-top: none;
+    padding-left: none;
+    border-bottom: 0.001px solid rgb(58, 50, 50);
+  
+}
     
 }
