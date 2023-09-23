@@ -679,7 +679,7 @@ float:left;
     padding-left: 20px;
     padding-right: 20px;
     height: 30px;
-    margin-top: 15px;
+    margin-top: 30%;
     background-image: linear-gradient(
         90deg,
         #fe34cc,
@@ -741,7 +741,7 @@ float:left;
 .afterNav--2--img3{
     height: auto;
     z-index: -2;
-    top:20%;
+    top:15%;
     left:10%;
     position: absolute;
 }
@@ -778,7 +778,8 @@ float:left;
    position: relative;
 }
 .afterNav--2--img4{
-    margin-bottom: 15%;
+    margin-bottom: 20%;
+width: 50%;
 }
 .afterNav--3--span1{
    max-width: 40%;
