@@ -615,3 +615,15 @@ small{
     font-size: x-small;
     margin-bottom: 2%;
 }
+@media(max-width:650px){
+    .myNav{
+        display: flex;
+        flex-direction: row;
+        border-bottom: 0.001px solid rgb(58, 50, 50);
+        width: 100%;
+        overflow-x: hidden;
+    } 
+    #Timeline, #Overview, #FAQs, #Contact, #Register{
+        display: none;
+    }
+}
